@@ -50,4 +50,4 @@ public function __construct() {
 }
 ```
 ## Sucesso!!
-![Calourada 2025](calourada2025)
+![Calourada 2025](calourada2025.jpg)
